@@ -1,0 +1,3 @@
+Tparam:
+  ros_parameters:
+    'my_para' : "파일로된 파라미터"
